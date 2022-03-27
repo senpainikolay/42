@@ -1,4 +1,4 @@
-# Scroll down to see the missing outputs of ~~some~~ *most  pieces of code. 
+# The files do not render properly. Scroll down to see the missing outputs of ~~some~~ *most  pieces of code. 
 
 # 1_analysis : Bussiness/Data Analysis Insights. 
 
