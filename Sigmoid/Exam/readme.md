@@ -6,9 +6,9 @@
 ![Screenshot](photos_missing_data/1_analysis2.png)   
 
 # 2_Elliptic   
-LR with outliers
+LR with outliers    
 ![Screenshot](photos_missing_data/2_elliptic_with.png)    
-LR without outliers 
+LR without outliers       
 ![Screenshot](photos_missing_data/elliptic_without.png)
 
 # 3_main_model : models predictions and lime plot.
