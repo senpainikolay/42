@@ -6,5 +6,6 @@
 ![Screenshot](photos_missing_data/1_analysis2.png)  
 
 # 3_main_model : models predictions and lime plot.
-![Screenshot](photos_missing_data/3_models.png)  
+![Screenshot](photos_missing_data/3_models.png)   
+![Screenshot](photos_missing_data/3_fin.png)  
 ![Screenshot](photos_missing_data/3_lime.png) 
