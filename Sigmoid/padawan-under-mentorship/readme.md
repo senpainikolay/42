@@ -1,1 +1,1 @@
-# Vasika m-a facut machine learning injîner!
+# Vasika m-a facut machine learning injînior!
