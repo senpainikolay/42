@@ -3,7 +3,13 @@
 # 1_analysis : Bussiness/Data Analysis Insights. 
 
 ![Screenshot](photos_missing_data/1_analysis.png)  
-![Screenshot](photos_missing_data/1_analysis2.png)  
+![Screenshot](photos_missing_data/1_analysis2.png)   
+
+# 2_Elliptic   
+LR with outliers
+![Screenshot](photos_missing_data/2_elliptic_with.png)    
+LR without outliers 
+![Screenshot](photos_missing_data/elliptic_without.png)
 
 # 3_main_model : models predictions and lime plot.
 ![Screenshot](photos_missing_data/3_models.png)   
