@@ -3,7 +3,18 @@
 # 1_analysis : Bussiness/Data Analysis Insights. 
 
 ![Screenshot](photos_missing_data/1_analysis.png)  
-![Screenshot](photos_missing_data/1_analysis2.png)   
+![Screenshot](photos_missing_data/1_analysis2.png)    
+
+
+# 2_Isolation   
+LR with outliers    
+![Screenshot](photos_missing_data/with.png)         
+LR without outliers       
+![Screenshot](photos_missing_data/without.png)    
+RFR with outlier   
+![Screenshot](photos_missing_data/with2.png)       
+RFR without outliers   
+![Screenshot](photos_missing_data/without2.png)      
 
 # 2_Elliptic   
 LR with outliers    
