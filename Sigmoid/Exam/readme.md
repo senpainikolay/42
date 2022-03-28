@@ -1,4 +1,5 @@
-# There is a .rar files.  The files won't render properly. Scroll down to see the missing outputs of ~~some~~ *most  pieces of code. 
+# There is a .rar file. 
+# The files won't render properly. Scroll down to see the missing outputs of ~~some~~ *most  pieces of code. 
 
 # 1_analysis : Bussiness/Data Analysis Insights. 
 
