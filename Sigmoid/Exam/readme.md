@@ -25,7 +25,7 @@ LR without outliers
 RFR with outlier   
 ![Screenshot](photos_missing_data/2_elliptic_with2.png)      
 RFR without outliers   
-![Screenshot](photos_missing_data/elliptic_without.png)     
+![Screenshot](photos_missing_data/elliptic_without2.png)     
 
 # 3_main_model : models predictions and lime plot.
 ![Screenshot](photos_missing_data/3_models.png)   
